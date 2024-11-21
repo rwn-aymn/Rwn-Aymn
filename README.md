@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rwn-aymn
-- 👀 I’m interested in ML , AI , Data science , Data analysis , computer vision , Deep learning 
+- 👀 I’m interested in ML , AI , Data science , Data analysis , computer vision , Deep learning
+- And this project is for Stroke prediction
 
 
 <!---
